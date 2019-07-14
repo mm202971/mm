@@ -1,0 +1,11 @@
+    
+    明鸣
+
+    项目内容主要包含有商品首页、详情页、购物车以及登陆注册等四个页面。首页的话主要包含banner图、下拉框、楼层等效果。详情页以及购物车就是尽可能的模拟了用户真实上网购物的场景体验，从商品本身的各种信息到所购数量以及最后的删除购物车信息体验都有尽可能的体现出来。其次就是登陆注册页面，主要也是模拟了用户从注册新账号到登陆新账号的整个过程体验。当然项目本身也还是有很多不足之处，很多方面需要改进加强。
+
+
+首页      localhost/1905/anmo/shouye/anmo.html
+详情      localhost/1905/anmo/xiangqing/xiang.html 
+登陆      localhost/1905/anmo/land/land.html
+注册      localhost/1905/anmo/register/register.html
+购物车    localhost/1905/anmo/gouwuche/che.html                               
